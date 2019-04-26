@@ -6,16 +6,6 @@
 		<Event name="OnOpen">ПриОткрытии</Event>
 	</Events>
 	<ChildItems>
-		<LabelDecoration name="Декорация1" id="12">
-			<Title formatted="false">
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Изменения для тестирования Git</v8:content>
-				</v8:item>
-			</Title>
-			<ContextMenu name="Декорация1КонтекстноеМеню" id="13"/>
-			<ExtendedTooltip name="Декорация1РасширеннаяПодсказка" id="14"/>
-		</LabelDecoration>
 		<InputField name="ДатаАктуальности" id="1">
 			<DataPath>ДатаАктуальности</DataPath>
 			<ContextMenu name="ДатаАктуальностиКонтекстноеМеню" id="2"/>
